@@ -25,3 +25,21 @@ Helsinki-NLP/Opus-mt-ru-en
   year = {2020},
   address = {Lisbon, Portugal}
  }
+
+# PI_2
+Практическое задание по второму модулю дисциплины "Программная инженерия" УрФУ
+
+###Запуск приложения
+Чтобы запустить приложение, вам необходимо установить зависимости и запустить streamlet:
+
+ - Установка зависимостей
+```bash
+pip install -r requirements.txt
+```
+ - Запуск приложения
+```bash
+streamlit run app.py
+```
+### Были использованы следующие готовые модели:
+Helsinki-NLP/opus-mt-en-ru     
+Helsinki-NLP/Opus-mt-ru-en
