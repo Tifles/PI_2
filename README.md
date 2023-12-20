@@ -1,5 +1,7 @@
 # PI_2
-Practical assignment for the second module of the discipline "Software Engineering" UrFU
+Practical assignment for the second module of the discipline "Software Engineering" UrFU.   
+Russian Russian text translation application for English to English and Russian to English.    
+It is intended to help you work with texts in a foreign language (Reading documentation, preparing letters...)
 
 ## TranslaterML
 
@@ -27,7 +29,9 @@ Helsinki-NLP/Opus-mt-ru-en
  }
 
 # PI_2
-Практическое задание по второму модулю дисциплины "Программная инженерия" УрФУ
+Практическое задание по второму модулю дисциплины "Программная инженерия" УрФУ.    
+Приложение для перевода текста с английского на русский и русского на английский.   
+Предназначено для помощи в  работе с текстами на иностранном языке (Чтение документации, подготовка писем...)
 
 ###Запуск приложения
 Чтобы запустить приложение, вам необходимо установить зависимости и запустить streamlet:
